@@ -1,1 +1,1 @@
-#lfs_arch.base
+lfs_arch.base
